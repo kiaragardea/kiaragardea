@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/kiaragardea/)">
+  <a href="https://www.linkedin.com/in/kiaragardea/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <h1>
@@ -23,7 +23,7 @@ I am a software engineer working at Revature from my home in California.
 
 - 💡  I graduated from the UCR School of Business with a concentration in Information Systems. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kiaragardea/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiaragardea/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
